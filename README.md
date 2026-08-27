@@ -175,6 +175,6 @@ A `submission.csv` file was created containing:
 ```text
 FUTURE_ML_01/
 │
-├── FUTURE_ML_01_Sales_Forecasting.ipynb
+├── FUTURE_ML_01_Sales_Forecasting_(1).ipynb
 ├── README.md
 └── submission.csv
