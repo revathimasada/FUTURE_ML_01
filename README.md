@@ -1,4 +1,4 @@
-# 📊 FUTURE_ML_01 – Store Item Demand Forecasting_(1).ipynb
+# 📊 FUTURE_ML_01 – Store Item Demand Forecasting
 
 ## 📌 Project Overview
 
